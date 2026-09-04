@@ -6,11 +6,11 @@
 
 </div>
 
-Técnico em informática, atualmente cursando Análise e Desenvolvimento de Sistemas. Fui cofundador de uma transportadora, onde construí os sistemas que o negócio precisava em vez de terceirizar — chatbot de atendimento com IA, calculadora de frete, painel de operação. Fiz um trabalho parecido como freelancer para uma empresa de planos de saúde, automatizando comparação de planos e monitoramento de leads.
+Técnico em informática, atualmente cursando Análise e Desenvolvimento de Sistemas. Fui cofundador de uma transportadora, e lá eu mesmo construí os sistemas que o negócio precisava: chatbot de atendimento com IA, calculadora de frete, painel de operação. Fiz um trabalho parecido como freelancer para uma empresa de planos de saúde, automatizando comparação de planos e monitoramento de leads.
 
-A maior parte do que sei aprendi resolvendo problema real, colocando sistema pra funcionar de verdade — não em curso. Hoje sigo com alguns projetos próprios em paralelo, principalmente na área de segurança do trabalho e automação.
+A maior parte do que sei eu aprendi na raça, quebrando a cabeça até o sistema funcionar de verdade, não copiando exercício de curso. Hoje sigo com alguns projetos próprios em paralelo, principalmente na área de segurança do trabalho e automação, e sempre tem alguma coisa nova rodando no meu PC pra eu testar.
 
-Gosto de pegar um problema do dia a dia de alguém e pensar em como a tecnologia resolve aquilo de um jeito simples — e, quando dá, mostrar pra pessoa como usar a ferramenta, não só entregar pronto.
+Curto pegar aquele problema chato do dia a dia de alguém e pensar como a tecnologia resolve isso de um jeito simples. Gosto mesmo é de montar coisa pra galera, resolver o perrengue que atrapalha a rotina de alguém, e quando dá, ensinar a pessoa a usar a ferramenta em vez de só entregar pronto.
 
 📫 kaoe.viola41@gmail.com
 
