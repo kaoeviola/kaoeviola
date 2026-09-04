@@ -64,49 +64,38 @@ Gosto de pegar um problema do dia a dia de alguém e pensar em como a tecnologia
 
 ### Projetos em destaque
 
-#### [APR.ai](https://github.com/PhiDocs/webapp)
-Sistema de gestão de segurança do trabalho (APR/PT) com IA e assinatura digital, multi-empresa.
-`Next.js` `Supabase` `Gemini`
-
-<br>
-
-#### [sst-app](https://github.com/kaoeviola/sst-app)
-Backend/API do ecossistema SST — pipeline de agentes de IA que geram e revisam documentos de segurança do trabalho.
-`Next.js` `Prisma` `OpenAI`
-
-<br>
-
-#### [consultoria](https://github.com/kaoeviola/consultoria)
-SaaS que gera documentos técnicos de consultoria (PGR, PCMSO) com agentes de IA e validação legal automática.
-`Next.js` `Prisma` `OpenAI`
-
-<br>
-
-#### [loalty (Selo)](https://github.com/kaoeviola/loalty)
-Plataforma de fidelidade com cartão direto na carteira digital (Google/Apple Wallet), sem app próprio.
-`Next.js` `Supabase` `Wallet APIs`
-
-<br>
-
-#### [hubeasymove](https://github.com/kaoeviola/hubeasymove)
-Hub de gestão de fretes, motoristas e vistoria, construído pra uma transportadora que cofundei.
-`Next.js` `Supabase`
-
-<br>
-
-#### [crypto-automation](https://github.com/kaoeviola/crypto-automation)
-Automação de trading P2P multi-exchange, em colaboração com [@igorgcustodio](https://github.com/igorgcustodio).
-`TypeScript` `Node.js`
-
-<br>
-
-#### [rmira-ftms-probe](https://github.com/kaoeviola/rmira-ftms-probe)
-App Android que lê dados de bike ergométrica via Bluetooth, implementando o protocolo FTMS da spec Bluetooth SIG.
-`Kotlin` `BLE/GATT`
-
-<br>
-
-#### [leak-intelligence-ai](https://github.com/kaoeviola/leak-intelligence-ai)
-Protótipo de detecção de vazamento por análise acústica: captura de áudio, FFT própria e espectrograma em tempo real.
-`Flutter` `DSP`
+<table>
+<tr>
+<td width="240"><b><a href="https://github.com/PhiDocs/webapp">APR.ai</a></b></td>
+<td>Sistema de gestão de segurança do trabalho (APR/PT) com IA e assinatura digital, multi-empresa.<br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/kaoeviola/sst-app">sst-app</a></b></td>
+<td>Backend/API do ecossistema SST — pipeline de agentes de IA que geram e revisam documentos de segurança do trabalho.<br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/kaoeviola/consultoria">consultoria</a></b></td>
+<td>SaaS que gera documentos técnicos de consultoria (PGR, PCMSO) com agentes de IA e validação legal automática.<br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/kaoeviola/loalty">loalty (Selo)</a></b></td>
+<td>Plataforma de fidelidade com cartão direto na carteira digital (Google/Apple Wallet), sem app próprio.<br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Wallet-4285F4?style=flat-square&logo=googlewallet&logoColor=white"/></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/kaoeviola/hubeasymove">hubeasymove</a></b></td>
+<td>Hub de gestão de fretes, motoristas e vistoria, construído pra uma transportadora que cofundei.<br><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/kaoeviola/crypto-automation">crypto-automation</a></b></td>
+<td>Automação de trading P2P multi-exchange, em colaboração com <a href="https://github.com/igorgcustodio">@igorgcustodio</a>.<br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/kaoeviola/rmira-ftms-probe">rmira-ftms-probe</a></b></td>
+<td>App Android que lê dados de bike ergométrica via Bluetooth, implementando o protocolo FTMS da spec Bluetooth SIG.<br><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/BLE%2FGATT-4B5563?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/kaoeviola/leak-intelligence-ai">leak-intelligence-ai</a></b></td>
+<td>Protótipo de detecção de vazamento por análise acústica: captura de áudio, FFT própria e espectrograma em tempo real.<br><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/DSP%2FFFT-4B5563?style=flat-square"/></td>
+</tr>
+</table>
 
