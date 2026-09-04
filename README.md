@@ -70,4 +70,6 @@ A maior parte do que sei aprendi resolvendo problema real, colocando sistema pra
 | [**hubeasymove**](https://github.com/kaoeviola/hubeasymove) | Hub de gestão de fretes, motoristas e vistoria construído pra uma transportadora que cofundei | Next.js · Supabase |
 | [**crypto-automation**](https://github.com/kaoeviola/crypto-automation) | Automação de trading P2P multi-exchange, em colaboração com [@igorgcustodio](https://github.com/igorgcustodio) | TypeScript · Node.js |
 | [**consultoria**](https://github.com/kaoeviola/consultoria) | SaaS que gera documentos técnicos de consultoria (PGR, PCMSO) com agentes de IA e validação legal | Next.js · Prisma · OpenAI |
+| [**rmira-ftms-probe**](https://github.com/kaoeviola/rmira-ftms-probe) | App Android que lê dados de bike ergométrica via Bluetooth, implementando o protocolo FTMS da spec Bluetooth SIG | Kotlin · BLE/GATT |
+| [**leak-intelligence-ai**](https://github.com/kaoeviola/leak-intelligence-ai) | Protótipo de detecção de vazamento por análise acústica: captura de áudio, FFT própria e espectrograma em tempo real | Flutter · DSP |
 
