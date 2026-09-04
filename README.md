@@ -6,7 +6,7 @@
 
 </div>
 
-Técnico em informática, atualmente cursando Análise e Desenvolvimento de Sistemas. Fui cofundador de uma transportadora, e lá eu mesmo construí os sistemas que o negócio precisava: chatbot de atendimento com IA, calculadora de frete, painel de operação. Fiz um trabalho parecido como freelancer para uma empresa de planos de saúde, automatizando comparação de planos e monitoramento de leads.
+Técnico em informática, hoje cursando Análise e Desenvolvimento de Sistemas. Sempre fui empreendedor: já tive transportadora, academia, estúdio de pilates. Em todos, era eu que colocava a tecnologia de ponta a ponta, automatizando o que dava pra automatizar. Na transportadora, por exemplo, construí chatbot de atendimento com IA, calculadora de frete e painel de operação. Fiz um trabalho parecido como freelancer para uma empresa de planos de saúde, automatizando comparação de planos e monitoramento de leads.
 
 A maior parte do que sei eu aprendi mexendo direto no problema, testando e ajustando até funcionar. Hoje sigo com alguns projetos próprios em paralelo, principalmente na área de segurança do trabalho e automação, e sempre tem alguma coisa nova rodando no meu PC pra eu testar.
 
