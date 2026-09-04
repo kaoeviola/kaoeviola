@@ -1,23 +1,20 @@
 <div align="center">
 
-# Olá, eu sou o Kaoê 👋
+# Kaoê Viola
 
-### Desenvolvedor Full Stack em formação, apaixonado por IA aplicada e automação
+**Desenvolvedor Full Stack** · Curitiba, PR
 
 </div>
 
-Sou técnico em informática, atualmente cursando a faculdade e migrando de vez pra dentro da área de tecnologia. Antes disso, fui cofundador de uma transportadora (Easy Move) — e em vez de só terceirizar o time técnico, aprendi a construir eu mesmo os sistemas que o negócio precisava: chatbot com IA, calculadora de frete, painel de operação, automações. Fiz o mesmo tipo de trabalho como freelancer pra uma empresa de planos de saúde (motor de comparação de planos, robô de monitoramento de leads).
+Técnico em informática, atualmente cursando Análise e Desenvolvimento de Sistemas. Fui cofundador de uma transportadora, onde construí os sistemas que o negócio precisava em vez de terceirizar — chatbot de atendimento com IA, calculadora de frete, painel de operação. Fiz um trabalho parecido como freelancer para uma empresa de planos de saúde, automatizando comparação de planos e monitoramento de leads.
 
-Sou autodidata por natureza: gosto de ir atrás do problema, testar, quebrar, aprender e resolver — a maior parte do que sei veio de colocar a mão na massa em sistemas que precisavam funcionar de verdade, não de tutorial. Curioso o suficiente pra sempre estar com um projeto novo rodando em paralelo.
+A maior parte do que sei aprendi resolvendo problema real, colocando sistema pra funcionar de verdade — não em curso. Hoje sigo com alguns projetos próprios em paralelo, principalmente na área de segurança do trabalho e automação.
 
-- 🔭 Trabalhando agora em plataformas de SST (segurança do trabalho), fidelidade com carteira digital e automação de leads.
-- 🌱 Aprofundando full stack + IA aplicada (agentes, RAG, geração de documentos).
-- ⚡ Gosto de resolver problema real de negócio com código, não só exercício.
-- 📫 Contato: kaoe.viola41@gmail.com
+📫 kaoe.viola41@gmail.com
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 **Linguagens**
 
@@ -63,7 +60,7 @@ Sou autodidata por natureza: gosto de ir atrás do problema, testar, quebrar, ap
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 | Projeto | O que é | Stack |
 |---|---|---|
