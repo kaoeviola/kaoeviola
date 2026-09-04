@@ -6,7 +6,7 @@
 
 </div>
 
-Sempre fui apaixonado por tecnologia, mas acabei seguindo outros caminhos além dela: fui empreendedor em mais de um negócio. Só que a tecnologia sempre veio junto, não importa o caminho. Em cada empreendimento que eu tive, era eu que programava, otimizava e automatizava o que dava, e parte desses projetos tá logo abaixo. Também fiz um trabalho como freelancer para uma empresa de planos de saúde, automatizando comparação de planos e monitoramento de leads.
+Sempre fui apaixonado por tecnologia, mas acabei seguindo outros caminhos além dela: fui empreendedor em mais de um negócio. Só que a tecnologia sempre veio junto, não importa o caminho. Em cada empreendimento que eu tive, era eu que programava, otimizava e automatizava o que dava, e parte desses projetos tá logo abaixo.
 
 A maior parte do que sei eu aprendi mexendo direto no problema, testando e ajustando até funcionar. Hoje sigo com alguns projetos próprios em paralelo, principalmente na área de segurança do trabalho e automação, e sempre tem alguma coisa nova rodando no meu PC pra eu testar.
 
