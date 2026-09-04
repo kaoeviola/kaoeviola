@@ -67,8 +67,7 @@ A maior parte do que sei aprendi resolvendo problema real, colocando sistema pra
 | [**APR.ai**](https://github.com/PhiDocs/webapp) | Sistema de gestão de segurança do trabalho (APR/PT) com IA e assinatura digital, multi-empresa | Next.js · Supabase · Gemini |
 | [**sst-app**](https://github.com/kaoeviola/sst-app) | Backend/API do ecossistema SST: pipeline de agentes de IA que geram e revisam documentos de segurança do trabalho | Next.js · Prisma · OpenAI |
 | [**loalty (Selo)**](https://github.com/kaoeviola/loalty) | Plataforma de fidelidade com cartão direto na carteira digital (Google/Apple Wallet), sem app próprio | Next.js · Supabase · Wallet APIs |
-| [**painel-mazza**](https://github.com/kaoeviola/painel-mazza) | Painel multiusuário para robô de extração de leads (Playwright), integrado a Google Sheets e WhatsApp | Python · FastAPI · Docker |
 | [**hubeasymove**](https://github.com/kaoeviola/hubeasymove) | Hub de gestão de fretes, motoristas e vistoria construído pra uma transportadora que cofundei | Next.js · Supabase |
-| [**crypto-automation**](https://github.com/kaoeviola/crypto-automation) | Automação de trading P2P/arbitragem multi-exchange, em colaboração com [@igorgcustodio](https://github.com/igorgcustodio) | TypeScript · Node.js |
+| [**crypto-automation**](https://github.com/kaoeviola/crypto-automation) | Automação de trading P2P multi-exchange, em colaboração com [@igorgcustodio](https://github.com/igorgcustodio) | TypeScript · Node.js |
 | [**consultoria**](https://github.com/kaoeviola/consultoria) | SaaS que gera documentos técnicos de consultoria (PGR, PCMSO) com agentes de IA e validação legal | Next.js · Prisma · OpenAI |
 
