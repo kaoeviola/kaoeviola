@@ -8,7 +8,7 @@
 
 Técnico em informática, atualmente cursando Análise e Desenvolvimento de Sistemas. Fui cofundador de uma transportadora, e lá eu mesmo construí os sistemas que o negócio precisava: chatbot de atendimento com IA, calculadora de frete, painel de operação. Fiz um trabalho parecido como freelancer para uma empresa de planos de saúde, automatizando comparação de planos e monitoramento de leads.
 
-A maior parte do que sei eu aprendi na raça, quebrando a cabeça até o sistema funcionar de verdade. Hoje sigo com alguns projetos próprios em paralelo, principalmente na área de segurança do trabalho e automação, e sempre tem alguma coisa nova rodando no meu PC pra eu testar.
+A maior parte do que sei eu aprendi mexendo direto no problema, testando e ajustando até funcionar. Hoje sigo com alguns projetos próprios em paralelo, principalmente na área de segurança do trabalho e automação, e sempre tem alguma coisa nova rodando no meu PC pra eu testar.
 
 Curto pegar aquele problema chato do dia a dia de alguém e pensar como a tecnologia resolve isso de um jeito simples. Gosto mesmo é de montar coisa pra galera, resolver o perrengue que atrapalha a rotina de alguém, e quando dá, ensinar a pessoa a usar a ferramenta em vez de só entregar pronto.
 
